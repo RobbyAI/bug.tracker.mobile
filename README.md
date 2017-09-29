@@ -1,2 +1,3 @@
-# issues.mobile
-Issues tracker for mobile app
+# Bug Tracker Mobile
+
+Welcome to the GitHub interface for bug tracking.
